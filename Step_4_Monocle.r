@@ -1,3 +1,11 @@
+###############################################################################################
+# Pre-processing for data used to generate Figure 7, Figure S7 and S8 from Wang et al. Nature Communications 2022.
+
+# This script is: STEP 4 of 4
+
+# by Bangyan Liu
+###############################################################################################
+
 # Load data
 lg343 <- readRDS('LG343_integrated_ready_4_DEGs.rds')
 lg345 <- readRDS('LG345_integrated_ready_4_DEGs.rds')
